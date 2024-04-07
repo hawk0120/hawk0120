@@ -3,7 +3,7 @@
 ### About Me
 Java || Node ? Typescript : Javascript\
 Angular || React\
-English || Dutch :pinching_hand:
+English || Dutch :pinching_hand:\
 Fun guy
 
 
