@@ -3,7 +3,7 @@
 ### About Me
 
 Node ? Typescript : Javascript || Kotlin \
-React || Angular
+React || Angular\
 English || Dutch :pinching_hand:
 
     Any application that can be written in JavaScript, will eventually be written in JavaScript.
