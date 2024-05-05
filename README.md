@@ -1,9 +1,11 @@
-## Hi there :point_down:	:point_down:	
+## Hi there
+Front Ender with a passion for Back End
+
 
 ### About Me
 
-Node ? Typescript : Javascript || Kotlin \
-React || Angular\
+Node ? Typescript : Javascript
+React || React Native || Angular\
 English || Dutch :pinching_hand:
 
     Any application that can be written in JavaScript, will eventually be written in JavaScript.
