@@ -4,7 +4,7 @@ Front Ender with a passion for Back End
 
 ### About Me
 
-Node ? Typescript : Javascript
+Node ? Typescript : Javascript\
 React || React Native || Angular\
 English || Dutch :pinching_hand:
 
