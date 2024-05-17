@@ -1,6 +1,6 @@
 ### About Me
 
-Java | Node ? Typescript : Javascript\
+Java || Node ? Typescript : Javascript\
 React || React Native || Angular\
 English || Dutch :pinching_hand:
 
