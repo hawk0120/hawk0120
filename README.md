@@ -1,10 +1,6 @@
-## Hi there
-Front Ender with a passion for Back End
-
-
 ### About Me
 
-Node ? Typescript : Javascript\
+Java | Node ? Typescript : Javascript\
 React || React Native || Angular\
 English || Dutch :pinching_hand:
 
