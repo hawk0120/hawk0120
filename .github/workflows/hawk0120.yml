@@ -14,4 +14,5 @@ jobs:
       - uses: athul/waka-readme@master 
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          IGNORED_LANGUAGES: i3-config
+          IGNORED_LANGUAGES: i3config
+          TIME_RANGE: all_time 
