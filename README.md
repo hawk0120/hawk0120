@@ -1,4 +1,4 @@
-# My Technologies
+# Hi there 👋
 Java || Node ? Typescript : Javascript \
 Angular  React || React Native  \
 English || Dutch :pinching_hand:
