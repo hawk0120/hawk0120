@@ -1,6 +1,6 @@
-### About Me
-Node ? Typescript : Javascript || Java\
-React || React Native || Angular\
+# My Technologies
+Java || Node ? Typescript : Javascript \
+Angular  React || React Native  \
 English || Dutch :pinching_hand:
 
  <!--START_SECTION:waka-->
