@@ -1,6 +1,6 @@
 # Hi there 👋
 Java || Node ? Typescript : Javascript \
-Angular  React || React Native  \
+ React || React Native || Angular  \
 English || Dutch :pinching_hand:
 
  <!--START_SECTION:waka-->
