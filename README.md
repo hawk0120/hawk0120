@@ -6,11 +6,11 @@ English || Dutch :pinching_hand:
  <!--START_SECTION:waka-->
 
 ```txt
-Java              6 hrs 14 mins   █████████░░░░░░░░░░░░░░░░   35.93 %
-Markdown          2 hrs 22 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.71 %
-Bash              2 hrs 19 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.39 %
-TypeScript        1 hr            █▒░░░░░░░░░░░░░░░░░░░░░░░   05.83 %
-Other             59 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.71 %
+Java              6 hrs 28 mins   █████████░░░░░░░░░░░░░░░░   35.76 %
+Markdown          2 hrs 43 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.04 %
+Bash              2 hrs 19 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.84 %
+Other             1 hr 6 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.15 %
+TypeScript        1 hr            █▒░░░░░░░░░░░░░░░░░░░░░░░   05.59 %
 ```
 
 <!--END_SECTION:waka-->
