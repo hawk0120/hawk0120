@@ -15,4 +15,4 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           IGNORED_LANGUAGES: i3config,Markdown 
-          TIME_RANGE: all_time 
+          TIME_RANGE: last_7_days
