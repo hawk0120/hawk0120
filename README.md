@@ -1,6 +1,6 @@
 # Hi there 👋
-Java || Node ? Typescript : Javascript \
- React || React Native || Angular  \
-English || Dutch :pinching_hand:
+
+[![Hawk0120's GitHub stats](https://github-readme-stats.vercel.app/api?username=hawk012p)](https://github.com/anuraghazra/github-readme-stats)
+
 
 If I haven't responded in a few days, please email me directly. 
