@@ -1,4 +1,6 @@
-# Hi there 👋
+# Hi there 👋 I'm Brady
+
+Here are my stats from the last week:
 <!--START_SECTION:waka-->
 
 ```txt
