@@ -4,10 +4,11 @@ Here are my stats from the last week:
 <!--START_SECTION:waka-->
 
 ```txt
-i3config   1 hr 9 mins     █████████████▓░░░░░░░░░░░   54.26 %
-Kotlin     53 mins         ██████████▒░░░░░░░░░░░░░░   41.73 %
-Other      4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 %
-netrw      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+Java              2 hrs           ██████████░░░░░░░░░░░░░░░   40.33 %
+i3config          1 hr 9 mins     █████▓░░░░░░░░░░░░░░░░░░░   23.15 %
+Kotlin            53 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.81 %
+CSV/TSV           27 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.14 %
+XML               16 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.64 %
 ```
 
 <!--END_SECTION:waka-->
