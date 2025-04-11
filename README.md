@@ -4,11 +4,11 @@ Here are my stats from the last week:
 <!--START_SECTION:waka-->
 
 ```txt
-Java              17 hrs 10 mins  ██████████████████████░░░   87.38 %
-XML               43 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 %
-CSS               23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
-Properties        23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
-i3config          12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
+Java              15 hrs 1 min    ████████████████████▓░░░░   82.32 %
+XML               1 hr 13 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.73 %
+Properties        33 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.08 %
+CSS               23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 %
+Java Properties   17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
 ```
 
 <!--END_SECTION:waka-->
