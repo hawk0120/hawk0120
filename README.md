@@ -4,11 +4,11 @@ Here are my stats from the last week:
 <!--START_SECTION:waka-->
 
 ```txt
-XML               8 hrs 1 min     ██████████▓░░░░░░░░░░░░░░   43.15 %
-Java              8 hrs 1 min     ██████████▓░░░░░░░░░░░░░░   43.10 %
-SQL               1 hr 42 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.16 %
-JavaScript        14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
-netrw             13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
+Java              9 hrs 11 mins   ███████████▓░░░░░░░░░░░░░   46.87 %
+XML               7 hrs 18 mins   █████████▒░░░░░░░░░░░░░░░   37.27 %
+SQL               1 hr 39 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 %
+Kotlin            1 hr 1 min      █▒░░░░░░░░░░░░░░░░░░░░░░░   05.25 %
+Java Properties   13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
 ```
 
 <!--END_SECTION:waka-->
