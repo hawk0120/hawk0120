@@ -4,11 +4,11 @@ Here are my stats from the last week:
 <!--START_SECTION:waka-->
 
 ```txt
-Java              20 hrs 15 mins  ███████████████████▓░░░░░   78.69 %
-SCSS              1 hr 49 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.09 %
-TypeScript        1 hr 10 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 %
-HTML              1 hr 3 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 %
-netrw             24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
+Java              21 hrs 27 mins  ████████████████████▒░░░░   81.88 %
+SCSS              1 hr 24 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.40 %
+HTML              52 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 %
+TypeScript        37 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 %
+XML               18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
 ```
 
 <!--END_SECTION:waka-->
