@@ -1,5 +1,8 @@
 # Hi there 👋 I'm Brady
 
+"Technology isn't a force of nature, it's the work of people"
+
+
 Here are my stats from the last week:
 <!--START_SECTION:waka-->
 
