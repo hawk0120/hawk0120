@@ -7,10 +7,7 @@ Here are my stats from the last week:
 <!--START_SECTION:waka-->
 
 ```txt
-Java         3 hrs 15 mins   ████████████████████████░   95.95 %
-XML          8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
-Kotlin       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
