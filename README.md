@@ -7,7 +7,8 @@ Here are my stats from the last week:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Kotlin   27 mins         ██████████████████░░░░░░░   72.53 %
+SQL      10 mins         ███████░░░░░░░░░░░░░░░░░░   27.47 %
 ```
 
 <!--END_SECTION:waka-->
