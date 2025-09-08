@@ -13,6 +13,6 @@ SQL      10 mins         ███████░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-I write in [here](https://github.com/hawk0120/blog)
+I write [here](https://github.com/hawk0120/blog)
 
 If I haven't responded in a few days, please email me directly. 
