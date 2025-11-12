@@ -2,7 +2,7 @@
 
 "Technology isn't a force of nature, it's the work of people"
 
-I write [here](https://bradyhawkins.leaflet.pub)
+I write [here](https://bradyhawkins.dev/blog)
 
 If I haven't responded in a few days, please email me directly. 
 
