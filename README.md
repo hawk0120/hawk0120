@@ -10,11 +10,11 @@ Here are my stats from the last week:
 <!--START_SECTION:waka-->
 
 ```txt
-Java              12 hrs 12 mins  ███████████████░░░░░░░░░░   60.15 %
-Go                2 hrs 8 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.58 %
-FitNesse          1 hr 2 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.15 %
-Other             59 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.86 %
-Kotlin            48 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 %
+Java              13 hrs 46 mins  █████████████████▒░░░░░░░   69.79 %
+FitNesse          1 hr 2 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.30 %
+Other             50 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 %
+Kotlin            48 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 %
+Bash              45 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 %
 ```
 
 <!--END_SECTION:waka-->
