@@ -10,11 +10,7 @@ Here are my stats from the last week:
 <!--START_SECTION:waka-->
 
 ```txt
-Java              2 hrs 33 mins   █████████████████████████   99.78 %
-XML               0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
-Properties        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
-Kotlin            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-Java Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
