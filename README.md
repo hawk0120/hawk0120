@@ -10,7 +10,10 @@ Here are my stats from the last week:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Other   13 mins         ███████████░░░░░░░░░░░░░░   44.18 %
+Bash    9 mins          ███████▓░░░░░░░░░░░░░░░░░   30.04 %
+conf    6 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.15 %
+Text    1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 %
 ```
 
 <!--END_SECTION:waka-->
