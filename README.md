@@ -10,10 +10,10 @@ Here are my stats from the last week:
 <!--START_SECTION:waka-->
 
 ```txt
-Java         11 hrs 7 mins   ████████████████████████▒   97.96 %
+Java         11 hrs 7 mins   ████████████████████████▓   98.01 %
 Text         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
 TypeScript   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
-Bash         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
+Bash         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
 conf         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
 
