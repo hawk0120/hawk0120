@@ -10,11 +10,11 @@ Here are my stats from the last week:
 <!--START_SECTION:waka-->
 
 ```txt
-Java              13 hrs 24 mins  ██████████████████████▓░░   90.14 %
-TypeScript        26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.92 %
-Java Properties   16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 %
-Other             11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
-Properties        10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
+Java              11 hrs 41 mins  █████████████████████▒░░░   84.95 %
+Bash              36 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 %
+TypeScript        27 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 %
+Java Properties   16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
+Other             12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
 ```
 
 <!--END_SECTION:waka-->
