@@ -10,11 +10,11 @@ Here are my stats from the last week:
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript        6 hrs 52 mins   ████████████▒░░░░░░░░░░░░   49.03 %
-Java              6 hrs 6 mins    ███████████░░░░░░░░░░░░░░   43.56 %
-TypeScript        14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
-JSON              11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
-SQL               9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
+Java              9 hrs 56 mins   █████████████▒░░░░░░░░░░░   53.81 %
+JavaScript        7 hrs 11 mins   █████████▓░░░░░░░░░░░░░░░   38.92 %
+JSON              34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.09 %
+XML               15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
+Kotlin            12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
 ```
 
 <!--END_SECTION:waka-->
