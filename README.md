@@ -11,7 +11,7 @@ Here are my stats from the last week:
 
 ```txt
 Java              12 hrs 33 mins        ████████████████████▒░░░░   80.88 %
-JavaScript        1 hr 14 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 %
+JavaScript        1 hr 14 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 %
 XML               42 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 %
 TypeScript        20 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
 SQL               9 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
