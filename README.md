@@ -24,7 +24,7 @@ val me = Me(
     technologies = Technologies(
         backEnd = mapOf(
             "java" to listOf("gradle", "sdkman", "Spring"),
-            "kotlin" to listOf("gradle", "compose", "Ktor", "picocli")
+            "kotlin" to listOf("gradle", "compose", "Ktor", "picocli"),
             "js/ts" to listOf("bun", "node")
         ),
         frontEnd = mapOf(
@@ -37,7 +37,7 @@ val me = Me(
         databases = listOf("PostgreSQL", "sqlite"),
         linux = listOf("debian", "mx"),
         misc = listOf("chezmoi", "fastfetch", "btop", "catppuccin", "Nord")
-    ),
+    )
 )
 ```
 </details>
