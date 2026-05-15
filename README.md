@@ -15,11 +15,12 @@ I write [here](https://bradyhawkins.dev/blog)
 
 <details>
 <summary> Brady.kt </summary>
+
 ```kotlin
 val me = Me(
     name = "Brady Hawkins",
     pronouns = listOf("He", "Him"),
-    code = listOf("Kotlin", "Java", "TypeScript", "Lua", "Bash", "Python"),
+    code = listOf("Kotlin", "Java", "TypeScript", "Lua", "Bash"),
     askMeAbout = listOf("neovim", "dotfiles", "linux", "llm coding agents", "self-hosting"),
     technologies = Technologies(
         backEnd = mapOf(
@@ -33,13 +34,14 @@ val me = Me(
         aiStack = listOf("opencode", "claude-code", "ollama", "Gemma"),
         neovim = listOf("packer", "telescope", "harpoon", "treesitter", "coc.nvim", "lualine"),
         terminal = listOf("alacritty", "tmux", "starship", "i3", "polybar", "rofi", "picom"),
-        devOps = listOf("docker", "nginx", "GitHub Actions"),
+        devOps = listOf("docker", "k8s", "nginx", "GitHub Actions"),
         databases = listOf("PostgreSQL", "sqlite"),
         linux = listOf("debian", "mx"),
         misc = listOf("chezmoi", "fastfetch", "btop", "catppuccin", "Nord")
     )
 )
 ```
+
 </details>
 <details>
 <summary> Stats </summary>
