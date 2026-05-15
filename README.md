@@ -25,7 +25,7 @@ val me = Me(
     technologies = Technologies(
         backEnd = mapOf(
             "java" to listOf("gradle", "sdkman", "Spring"),
-            "kotlin" to listOf("gradle", "compose", "Ktor", "picocli"),
+            "kotlin" to listOf("gradle", "compose", "Ktor", "coroutines","picocli"),
             "js/ts" to listOf("bun", "node")
         ),
         frontEnd = mapOf(
