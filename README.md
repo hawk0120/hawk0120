@@ -21,7 +21,7 @@ val me = Me(
     name = "Brady Hawkins",
     pronouns = listOf("He", "Him"),
     code = listOf("Kotlin", "Java", "TypeScript", "Lua", "Bash"),
-    askMeAbout = listOf("neovim", "dotfiles", "linux", "llm coding agents", "self-hosting"),
+    askMeAbout = listOf("JVM", "neovim", "dotfiles", "linux", "llm coding agents", "self-hosting"),
     technologies = Technologies(
         backEnd = mapOf(
             "java" to listOf("gradle", "sdkman", "Spring"),
