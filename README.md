@@ -51,9 +51,9 @@ Here are my stats from the last week:
 
 ```txt
 Java              15 hrs 40 mins        █████████████████████░░░░   83.45 %
-Kotlin            43 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 %
-Other             25 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
+Kotlin            51 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 %
 Java Properties   19 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
+Other             16 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
 ```
 
 <!--END_SECTION:waka-->
