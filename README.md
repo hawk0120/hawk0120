@@ -4,10 +4,10 @@
 
 Currently @Keylane in the Netherlands. 
 
-- **Currently building:** [`flash`](https://github.com/hawk0120/flash), [`turtles`](https://github.com/hawk0120/turtles)
-- **Exploring:** coding agents, local LLMs, homelabbing
+- **Currently building:** [`watney4`]([https://github.com/hawk0120/flash](https://github.com/hawk0120/watney4)), [`turtles`](https://github.com/hawk0120/turtles)
+- **Exploring:** local LLMs, homelabbing
 
-- **Talk to me about:** Kotlin, JVM, Neovim, AI, atproto, technoeconomics
+- **Talk to me about:** Kotlin, JVM, Neovim, AI, atproto, human tech interactions
 
 - **Reach me:** [mail me here](mailto:brady93hawkins@gmail.com) ·[bradyhawkins.dev](https://bradyhawkins.dev)
 
