@@ -50,11 +50,10 @@ Here are my stats from the last week:
 <!--START_SECTION:waka-->
 
 ```txt
-Java              9 hrs 41 mins         ████████████████▒░░░░░░░░   65.03 %
-Kotlin            3 hrs 25 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.03 %
-TOML              20 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
-XML               19 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 %
-Git Config        12 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
+Java              9 hrs 18 mins         █████████████▒░░░░░░░░░░░   52.73 %
+Kotlin            3 hrs 25 mins         █████░░░░░░░░░░░░░░░░░░░░   19.44 %
+Svelte            1 hr 7 mins           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.36 %
+YAML              31 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 %
 ```
 
 <!--END_SECTION:waka-->
