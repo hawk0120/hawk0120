@@ -4,8 +4,8 @@
 
 Currently @Keylane in the Netherlands. 
 
-- **Currently building:** [`watney4`]([https://github.com/hawk0120/flash](https://github.com/hawk0120/watney4)), [`turtles`](https://github.com/hawk0120/turtles)
-- **Exploring:** local LLMs, homelabbing
+- **Currently building:** [`watney4`]([https://github.com/hawk0120/watney4])), [`turtles`](https://github.com/hawk0120/turtles)
+- **Exploring:** local LLMs, HCI, Homelabing
 
 - **Talk to me about:** Kotlin, JVM, Neovim, AI, atproto, hci
 
