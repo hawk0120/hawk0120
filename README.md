@@ -12,7 +12,7 @@ Currently @Keylane in the Netherlands.
 - **Reach me:** [mail me here](mailto:brady93hawkins@gmail.com) ·[bradyhawkins.dev](https://bradyhawkins.dev)
 <details>
 <summary> Blog </summary>
-I write [here](https://bradyhawkins.dev/blog)
+[Here!](https://bradyhawkins.dev/blog)
 </details>    
 <details>
 <summary> Brady.kt </summary>
