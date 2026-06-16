@@ -10,7 +10,7 @@ Currently @Keylane in the Netherlands.
 - **Talk to me about:** Kotlin, JVM, Neovim, AI, atproto, HCI
 
 - **Reach me:** [mail me here](mailto:brady93hawkins@gmail.com) ·[bradyhawkins.dev](https://bradyhawkins.dev)
-- 
+
 <details>
 <summary> Brady.kt </summary>
 
