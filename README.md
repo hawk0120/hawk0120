@@ -7,7 +7,7 @@ Currently @Keylane in the Netherlands.
 - **Currently building:** [`watney4`](https://github.com/hawk0120/watney4), [`turtles`](https://github.com/hawk0120/turtles)
 - **Exploring:** local LLMs, HCI, Homelabs
 
-- **Talk to me about:** Kotlin, JVM, Neovim, AI, atproto, HCI
+- **Talk to me about:** Kotlin, JVM, AI, atproto, HCI
 
 - **Reach me:** [mail me here](mailto:brady93hawkins@gmail.com) ·[bradyhawkins.dev](https://bradyhawkins.dev)
 
