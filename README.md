@@ -1,4 +1,4 @@
-# Hi 👋 I'm Brady
+# Hi, I'm Brady
 
 > *"Technology isn't a force of nature, it's the work of people."*
 
@@ -8,8 +8,8 @@ I'm particularly interested in long-term AI assistants, decentralized social sys
 
 ### Currently building
 
-* 🤖 **[Watney4](https://github.com/hawk0120/watney4)** — an experimental platform for exploring long-term AI assistants, memory, and human-AI interaction.
-* 🐢 **[Turtles](https://github.com/hawk0120/turtles)** — tools and experiments around AI systems and developer workflows.
+* **[Watney4](https://github.com/hawk0120/watney4)** — an experimental platform for exploring long-term AI assistants, memory, and human-AI interaction.
+* **[Turtles](https://github.com/hawk0120/turtles)** — tools and experiments around AI systems and developer workflows.
 
 ### Currently exploring
 
@@ -30,9 +30,9 @@ I'm particularly interested in long-term AI assistants, decentralized social sys
 
 ### Find me
 
-🌐 https://bradyhawkins.dev
+ https://bradyhawkins.dev
 
-📫 [brady93hawkins@gmail.com](mailto:brady93hawkins@gmail.com)
+[brady93hawkins@gmail.com](mailto:brady93hawkins@gmail.com)
 
 <details>
 <summary>Brady.kt</summary>
