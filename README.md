@@ -77,11 +77,10 @@ val me = Engineer(
 <!--START_SECTION:waka-->
 
 ```txt
-Java              11 hrs 20 mins        ██████████████▓░░░░░░░░░░   58.55 %
-SQL               1 hr 24 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.27 %
-Java Properties   1 hr 3 mins           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.49 %
-Kotlin            57 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.92 %
-JavaScript        54 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.72 %
+Java              9 hrs 58 mins         █████████████████░░░░░░░░   68.64 %
+Kotlin            57 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.55 %
+Java Properties   38 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 %
+Svelte            33 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 %
 ```
 
 <!--END_SECTION:waka-->
