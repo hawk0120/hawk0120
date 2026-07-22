@@ -1,63 +1,31 @@
-# Hi, I'm Brady
+# Hi, I'm Brady 👋
 
-> *"Technology isn't a force of nature, it's the work of people."*
+> *"Technology isn't a force of nature—it's the work of people."*
 
-I'm a software engineer based in the Netherlands, currently building enterprise software at Keylane while exploring how AI systems, and open protocols.
+I'm a software engineer interested in building thoughtful systems for complex problems.
 
-I'm particularly interested in long-term AI assistants, and decentralized social systems.
+My interests span software architecture, AI, economics, infrastructure, open protocols, and the climate transition. I'm less interested in technology for its own sake than in how technology helps people make better decisions and build more resilient societies.
 
-### Currently building
+I enjoy exploring ideas that sit between disciplines, building software that lasts, and writing about what I learn along the way.
 
-* **[Watney4](https://github.com/hawk0120/watney4)** — an experimental platform for exploring long-term AI assistants, memory, and human-AI interaction.
-* **[Turtles](https://github.com/hawk0120/turtles)** — tools and experiments around AI systems and developer workflows.
+## Current Projects
+### Watney
+What would it take for an AI assistant to become genuinely useful over years instead of minutes?
+What should agents remember?
 
-### Find me
+---
+### Harbor
+How can software help people make better infrastructure and climate-transition decisions under uncertainty?
+Are data centers actually bad for the world?
 
- https://bradyhawkins.dev
+## Writing
 
-[brady93hawkins@gmail.com](mailto:brady93hawkins@gmail.com)
+I write about engineering, architecture, AI, economics, and the occasionally weird ideas that emerge where they overlap.
 
-<details>
-<summary>Brady.kt</summary>
+🌐 **https://bradyhawkins.dev**
 
-```kotlin
-val me = Engineer(
-    name = "Brady Hawkins",
-    location = "The Netherlands",
-    currentlyBuilding = listOf(
-        "Watney4",
-        "Turtles"
-    ),
-    believes = "Great software comes from understanding people as much as technology."
-)
-```
+---
 
-</details>
-
-<details>
-<summary>Development Environment</summary>
-
-* **Languages:** Kotlin, Java, TypeScript, Lua, Bash
-* **Backend:** Ktor, Spring, Coroutines
-* **Frontend:** SvelteKit, Angular
-* **AI:** Ollama, Gemma, Claude Code, OpenCode
-* **Infrastructure:** Docker, Kubernetes, GitHub Actions, Nginx
-* **Databases:** PostgreSQL, SQLite
-* **Editor:** Neovim & IntelliJ
-* **Platform:** Linux
-
-</details>
-<details>
-<summary>Weekly Coding Activity</summary>
-
-<!--START_SECTION:waka-->
-
-```txt
-Java              16 hrs 50 mins        ██████████████████▒░░░░░░   73.94 %
-Other             1 hr 22 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.02 %
-Wikitext          55 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 %
-Kotlin            52 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 %
-```
-
-<!--END_SECTION:waka-->
-</details>
+> I believe the most interesting software isn't built around technologies.
+>
+> It's built around important problems.
