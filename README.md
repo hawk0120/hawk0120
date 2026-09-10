@@ -11,6 +11,7 @@ I enjoy exploring ideas that sit between disciplines, building software that las
 ### Watney
 What would it take for an AI assistant to become genuinely useful over years instead of minutes?
 What should agents remember?
+
 --- 
 
 ## Writing
